@@ -9,6 +9,7 @@ Follow the installation instruccions from [GroundingDino](https://github.com/IDE
 Follow the installation instruccions from [FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM)
 
 
+ Literature about GroundingDino at [Robloflow](https://blog.roboflow.com/grounding-dino-zero-shot-object-detection/)
 
 ```bash
 
