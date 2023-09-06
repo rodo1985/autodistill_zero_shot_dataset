@@ -160,6 +160,7 @@ cython_debug/
 #.idea/
 
 simple_images
-GroundingDINO
+GroundingDINO/*
 FastSAM
 weights
+*.pt
