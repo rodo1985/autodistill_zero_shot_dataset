@@ -2,3 +2,4 @@ simple_image_download
 tqdm
 opencv-python
 ultralytics
+fiftyone

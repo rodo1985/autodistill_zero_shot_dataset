@@ -2,8 +2,8 @@ from ultralytics import YOLO
 import torch
 
 # paths
-log_dir = '/media/datasets/runs/detect'
-yaml_path = '/media/datasets/safety.yaml'
+log_dir = 'datasets/runs/detect'
+yaml_path = 'datasets/safety.yaml'
 
 # Select the device where we are going to train the model
 device = 'cuda' if torch.cuda.is_available() else 'cpu'
