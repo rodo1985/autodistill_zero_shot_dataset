@@ -1,0 +1,27 @@
+paths:
+  input_folder: 'simple_images'
+  output_folder: 'datasets/safety'
+  image_folder: 'datasets/safety/images'
+  annotation_folder: 'datasets/safety/labels'
+  output_temp_folder: 'datasets/safety_temp'
+  obj_train_data_folder: 'datasets/safety_temp/obj_train_data'
+
+classes:
+  - 'hard hat'
+  - 'vest'
+  - 'head'
+  - 'safety glasses'
+
+# paths:
+#   input_folder: 'simple_images'
+#   output_folder: '/home/sredondo/Projects/YOLOV8/datasets/safety_full'
+#   image_folder: '/home/sredondo/Projects/YOLOV8/datasets/safety_full/images/train'
+#   annotation_folder: '/home/sredondo/Projects/YOLOV8/datasets/safety_full/labels/train'
+#   output_temp_folder: 'datasets/safety_temp'
+#   obj_train_data_folder: 'datasets/safety_temp/obj_train_data'
+
+# classes:
+#   - 'hard hat'
+#   - 'vest'
+#   - 'head'
+#   - 'safety glasses'
